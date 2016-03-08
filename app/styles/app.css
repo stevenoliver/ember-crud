@@ -1,0 +1,9 @@
+a, button {
+  outline: none !important;
+}
+.navbar-default .navbar-brand.active,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #333;
+  background-color: #e7e7e7;
+}
